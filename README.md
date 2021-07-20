@@ -4,12 +4,6 @@
 </div>
 <hr />
 
-[![Live Artifacts](https://github.com/TheMyanmarDollar/the_myanmar_dollar/workflows/Live/badge.svg)](https://github.com/TheMyanmarDollar/the_myanmar_dollar/actions?query=workflow%3ALive)
-[![Beta Artifacts](https://github.com/TheMyanmarDollar/the_myanmar_dollar/workflows/Beta/badge.svg)](https://github.com/TheMyanmarDollar/the_myanmar_dollar/actions?query=workflow%3ABeta)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/TheMyanmarDollar/the_myanmar_dollar)](https://github.com/TheMyanmarDollar/the_myanmar_dollar/releases/latest)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/TheMyanmarDollar/the_myanmar_dollar?color=darkblue&label=beta)](https://github.com/TheMyanmarDollar/the_myanmar_dollar/tags)
-[![Tests](https://github.com/TheMyanmarDollar/the_myanmar_dollar/workflows/Tests/badge.svg)](https://github.com/TheMyanmarDollar/the_myanmar_dollar/actions?query=workflow%3ATests)
-[![RelWithDebug Tests](https://github.com/TheMyanmarDollar/the_myanmar_dollar/workflows/Release%20Tests/badge.svg)](https://github.com/TheMyanmarDollar/the_myanmar_dollar/actions?query=workflow%3A%22Release+Tests%22)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-orange.svg)](https://discord.gg/6UwW5TDkps)
 
 ---

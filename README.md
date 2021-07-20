@@ -20,7 +20,7 @@ The Myanmar Dollar (MYD) is a digital currency protocol based on Nano, but distr
 * [Running a Node (Nano)](https://docs.nano.org/running-a-node/overview/)
 * [Integration Guides (Nano)](https://docs.nano.org/integration-guides/the-basics/)
 * [Command Line Interface (Nano)](https://docs.nano.org/commands/command-line-interface/)
-* [RPC Protocol](https://docs.nano.org/commands/rpc-protocol/)
+* [RPC Protocol (Nano)](https://docs.nano.org/commands/rpc-protocol/)
 
 Other documentation details can be found at [here](https://docs.nano.org).
 
